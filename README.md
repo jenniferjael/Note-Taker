@@ -1,4 +1,4 @@
-## Note-Taker
+# Note-Taker
 
 ## Description
 
@@ -6,13 +6,13 @@ Note taker is an applicationto write, save, and delete notes. This application u
 
 The frontend of this application has already been created, the work is to buid the backend and connect the two.
 
-# The following HTML routes should be created:
+### The following HTML routes should be created:
 
   * GET `/notes` - Should return the `notes.html` file.
 
   * GET `*` - Should return the `index.html` file
 
-# The application should have a `db.json` file on the backend that will be used to store and retrieve notes using the `fs` module.
+### The application should have a `db.json` file on the backend that will be used to store and retrieve notes using the `fs` module.
 
 * The following API routes should be created:
 

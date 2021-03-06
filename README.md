@@ -38,6 +38,7 @@ In the business context is important to keep track of all the information. In or
 
 
 ## URL of the Github respository
+<https://github.com/jenniferjael/Note-Taker>
 
 
 

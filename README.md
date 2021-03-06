@@ -29,6 +29,10 @@ As user I want to be able to write and save notes but also be able to delete the
 
 In the business context is important to keep track of all the information. In order to succesfully follow all the tasks without forgetting anything is important to have persistent notes and be able to go back to them when is needed.
 
+## Images
+
+<img src='images/oneNote.png' alt='first note' width='50%' height='50%'>
+<img src='images/secondNote.png' alt='one note saved and second created' width='50%' height='50%'>
 
 ## URL of the deployed application - Heroku
 

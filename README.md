@@ -35,8 +35,7 @@ In the business context is important to keep track of all the information. In or
 <img src='images/secondNote.png' alt='one note saved and second created' width='50%' height='50%'>
 
 ## URL of the deployed application - Heroku
-
-
+<https://dry-falls-26932.herokuapp.com/>
 ## URL of the Github respository
 <https://github.com/jenniferjael/Note-Taker>
 
